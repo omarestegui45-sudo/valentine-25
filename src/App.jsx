@@ -16,37 +16,37 @@ function App() {
     {
       id: 1,
       description: 'Chinita dime si por favor',
-      img: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGR3bDZ4bjV6ZWx3M3N2cHQ2dXdkMnJtcTF2N2JpcW04eTc1OGp3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yZOpxRV6alQGc/giphy.gif',
+      img: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY202N3h3cndkdGxmcHJnZWduNWxvdTI0d3pwYTRwMXAwdnJteGtkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8FaD6GjQ97jO/giphy.gif',
     },
     {
       id: 1,
       description: 'Te vas a quedar sin pokes.',
-      img: 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNtdmEzODU0MWRqZWxvaDIxMmZ4NGhjbmNvOXdpZzh0d2h4cjNocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SQQZhdNAcqNFu/giphy.gif',
+      img: 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNpaHJmbGVhbGFsYTJrbjBlZGN5cXdiM3M5ZjA4enNhMDJxNGFiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iEYAmKs8OlObm/giphy.gif',
     },
     {
       id: 2,
       description: 'Ya te doy un oportunidad más.',
-      img: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUxNDl4Nm1wOGExMjU4dHZodWd4cWF6ZnQxN2JkOHRuM3dqdmE2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Yai4F4pZpfdS/giphy.gif',
+      img: 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFqd2oyZHltdnhxbGVmanZmN2txMnU0ZTViZWN6aHVlN3VyMzkzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iay3ceM70i9SU/giphy.gif',
     },
     {
       id: 3,
       description: 'Ya esta si es tu última oportunidad.',
-      img: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVpMW42OWNkczlrdTNpM3B2cWI5dGF2bTV5MG5vdnU5NndhNjF6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rQAkBvurR6CI/giphy.gif',
+      img: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dxd3E3NGdoYW5zYmJnZDF2YXZna2RsM2M0eXJudDJ3YTczcDBxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10tIjpzIu8fe0/giphy.gif',
     },
     {
       id: 4,
       description: 'Enserio? ya no jueges mi amor.',
-      img: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWUxcTNiamJoNG5zeWExOGFkbTNza3EzcnMzN282d2llZWRpZWRsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/43HKwx3jV6kyQ/giphy.gif',
+      img: 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VlYzF5eTlmYXQzaGo5bmkxaGNvczVubjk1aXJtNWpybXZjcml5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bu1Zvftrm71D2/giphy.gif',
     },
     {
       id: 5,
       description: 'Que no es gracioso ¬¬.',
-      img: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd2ZXZ2cnk5bWNkOXF0bmNwMmJmM25uczBlZHdlODljMHB0am9kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNmaq6keJtYNa/giphy.gif',
+      img: 'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQ5MTAzaThyNXkwdGp6ZmlwZmlpeGd5M2JpZjJ5eGViMHhlMjBnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O4HxGQwwkveXS/giphy.gif',
     },
     {
       id: 6,
       description: 'Oe que fue, ya hice la reserva.',
-      img: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9qb3Fna3l5cDJweXEzM3ZobXE3Zm1qOGtkNTN0Nzl0bXB2dzFybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1332tmUf9Myo4o/giphy.gif',
+      img: 'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxhaGU5NzN5MmZwMmh1OHU3OTRkM3k4a21keDh3anNwM2d0b2xqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq8wyY1Zfndp6Lu/giphy.gif',
     },
     {
       id: 7,
@@ -109,7 +109,7 @@ function App() {
           <img
             src={
               Object.keys(randomValor).length === 0
-                ? 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif'
+                ? 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxzdjFrczJrN2k0empxbmIwcjgwc3p3anhrbnNmZHNoZjF0cmJocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5uALZbY4nMHGU/giphy.gif'
                 : randomValor.img
             }
             alt="San Valentin"
