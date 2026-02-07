@@ -16,67 +16,67 @@ function App() {
     {
       id: 1,
       description: 'Chinita dime si por favor',
-      img: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNybmN3ZnhveTdlcjc4eGVwZ3ZvbXd6dnI4NjZiOWp1bm9tMTJrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif',
+      img: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGR3bDZ4bjV6ZWx3M3N2cHQ2dXdkMnJtcTF2N2JpcW04eTc1OGp3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yZOpxRV6alQGc/giphy.gif',
     },
     {
       id: 1,
       description: 'Te vas a quedar sin pokes.',
-      img: 'https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif',
+      img: 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNtdmEzODU0MWRqZWxvaDIxMmZ4NGhjbmNvOXdpZzh0d2h4cjNocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SQQZhdNAcqNFu/giphy.gif',
     },
     {
       id: 2,
       description: 'Ya te doy un oportunidad más.',
-      img: 'https://media.tenor.com/DTmYqda3ZokAAAAi/peachandgoma.gif',
+      img: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUxNDl4Nm1wOGExMjU4dHZodWd4cWF6ZnQxN2JkOHRuM3dqdmE2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Yai4F4pZpfdS/giphy.gif',
     },
     {
       id: 3,
       description: 'Ya esta si es tu última oportunidad.',
-      img: 'https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif',
+      img: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVpMW42OWNkczlrdTNpM3B2cWI5dGF2bTV5MG5vdnU5NndhNjF6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rQAkBvurR6CI/giphy.gif',
     },
     {
       id: 4,
       description: 'Enserio? ya no jueges mi amor.',
-      img: 'https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif',
+      img: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWUxcTNiamJoNG5zeWExOGFkbTNza3EzcnMzN282d2llZWRpZWRsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/43HKwx3jV6kyQ/giphy.gif',
     },
     {
       id: 5,
       description: 'Que no es gracioso ¬¬.',
-      img: 'https://i.pinimg.com/originals/c6/b3/0d/c6b30d1a2dc178aeb92de63295d4ae64.gif',
+      img: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd2ZXZ2cnk5bWNkOXF0bmNwMmJmM25uczBlZHdlODljMHB0am9kdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNmaq6keJtYNa/giphy.gif',
     },
     {
       id: 6,
       description: 'Oe que fue, ya hice la reserva.',
-      img: 'https://media.tenor.com/N2oqtqaB_G0AAAAi/peach-goma.gif',
+      img: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9qb3Fna3l5cDJweXEzM3ZobXE3Zm1qOGtkNTN0Nzl0bXB2dzFybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1332tmUf9Myo4o/giphy.gif',
     },
     {
       id: 7,
       description: 'Esto no parará hasta que digas que si.',
-      img: 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif',
+      img: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR5dWV2amdpODc2bXhrOG55eWFyeTJiYTV1a294anQ0NndmZHR2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8BNLzYs1QI7K/giphy.gif',
     },
     {
       id: 8,
       description: 'Le voy a contar a todos que no te bañas eh.',
-      img: 'https://media.tenor.com/cbEccaK9QxMAAAAi/peach-goma.gif',
+      img: 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h2bnBsdmNjaHhhaTdocXZwc3hzNjdsNHdzdWM0aXp1dDdpYTBjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6cyM6ErehxET6/giphy.gif',
     },
     {
       id: 9,
       description: 'Chavita no sé cuantas más podré darte.',
-      img: 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif',
+      img: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBtZGduY2ttaXVyN2NvN3Y1NnVjdjBkbXpndmZoY3F2NHczdDRtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kDXta0GrB9wx9EeaDO/giphy.gif',
     },
     {
       id: 10,
       description: 'Se te van a acabar enserio.',
-      img: 'https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif',
+      img: 'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlvbGRqanJzZGY2ZXZtMHg4ZnJld2NsZ3g2ZHk0aHo3aGNnYjlrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i0lZAPw40F212/giphy.gif',
     },
     {
       id: 11,
       description: 'No me da para codificar más',
-      img: 'https://media.tenor.com/_4KFcz84OGMAAAAj/cute.gif',
+      img: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Qwd2o1MHNobm4ydmg5YXY2dTVpeGo5eW1mMHZjeXIxdDgxZXc5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OOezqqxPB8aJ2/giphy.gif',
     },
     {
       id: 12,
       description: 'Mentiraaa, podemos estar aquí todo el día muahahaha',
-      img: 'https://media.tenor.com/Az64YfoL7JcAAAAj/rawr.gif',
+      img: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtrNmNoOHdzaHFiZmhhcm5haHV3cGt4NGI3Y2I4Z25peTYwYmU1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgawLg4F0hJJe/giphy.gif',
     },
   ];
 
