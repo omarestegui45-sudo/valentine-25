@@ -51,7 +51,7 @@ function App() {
     {
       id: 7,
       description: 'Esto no parará hasta que digas que si.',
-      img: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR5dWV2amdpODc2bXhrOG55eWFyeTJiYTV1a294anQ0NndmZHR2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8BNLzYs1QI7K/giphy.gif',
+      img: 'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3cwZGM0bWhmcTRtZWE3ZXhzM3JkczZ6YWg3Y3Z4ZG0zMDF3OTI2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jW8FyjJsEwZOM/giphy.gif',
     },
     {
       id: 8,
