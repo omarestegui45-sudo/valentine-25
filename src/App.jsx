@@ -16,7 +16,7 @@ function App() {
     {
       id: 1,
       description: 'Chinita dime si por favor',
-      img: 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif',
+      img: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNybmN3ZnhveTdlcjc4eGVwZ3ZvbXd6dnI4NjZiOWp1bm9tMTJrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif',
     },
     {
       id: 1,
